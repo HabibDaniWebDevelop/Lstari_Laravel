@@ -1,0 +1,21 @@
+Product:  26 / AuAgCuZnNiPdFeCd  	Dir.: Gold	Block:       779
+Application: 44 / AuAgCuZnNiPdFeCd
+
+
+ 
+  
+
+   n      Au[%]     Ag[%]     Cu[%]     Zn[%]     Ni[%]     Pd[%]     Fe[%]     Cd[%]     mq[ ]
+    1   87.533    2.7461    9.0953    0.6260    0.0000    0.0000    0.0000    0.0000    0.9530             
+
+	       Au	       Ag	       Cu	       Zn	       Ni
+Mean      	   87.533 %	   2.7461 %	   9.0953 %	   0.6260 %	   0.0000 %
+Standard deviation	 -------- %	 -------- %	 -------- %	 -------- %	 -------- %
+C.O.V. (%)	     0.00	     0.00	     0.00	     0.00	     0.00 
+Range	   0.0000 %	   0.0000 %	   0.0000 %	   0.0000 %	   0.0000 %
+Number of readings	        1	        1	        1	        1	        1
+Min. reading	   87.533 %	   2.7461 %	   9.0953 %	   0.6260 %	   0.0000 %
+Max. reading	   87.533 %	   2.7461 %	   9.0953 %	   0.6260 %	   0.0000 %
+Measuring time	       30 sec
+Operator:  putu   	6K	221171304
+Date:  28/11/2022  Time:  3:20:30 pm
